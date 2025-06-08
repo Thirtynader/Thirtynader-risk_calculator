@@ -20,6 +20,8 @@ This web-based calculator helps you determine the optimal lot size based on your
 - 🎯 Lightweight, no dependencies
 
 ---
+📥 Download the latest version of the calculator here:  
+👉 [Download ZIP](https://github.com/Thirtynader/Thirtynader-risk_calculator/releases/latest)
 
 ## 🚀 How to Use
 
